@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31631.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/b_class.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "a66c53593dc9d21cb98aa0e23b9b0f71e3d47499a962e114af2c30c0e6e31de0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/b_class.h"
+          },
+          "hashes": {
+            "sha-256": "b9c04b7fe23ef096028d9f9885e7fc137f9f65c4aab3777d74bda9d79bf01f40"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/utils.h"
+          },
+          "hashes": {
+            "sha-256": "560e5d77e766f96023170f65287433c0b388b3eccec8c663bc6c0bd4e7530128"
+          }
+        }
+      ]
+    }
+  ]
+}

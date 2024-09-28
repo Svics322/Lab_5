@@ -1,0 +1,83 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31631.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/utils.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "27d450179166a5a0091423872ffa795012941c433ff675ea158b1fc4a0286ce6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/includes.h"
+          },
+          "hashes": {
+            "sha-256": "72f4a171201d894db59c3061e785040192080a984bef974ab8ec272608abd96a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/a_class.h"
+          },
+          "hashes": {
+            "sha-256": "754db4400e43a36fe0d9d0b03f0c9eaf48574d7a47fda0732c25c0391a5bbcba"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/utils.h"
+          },
+          "hashes": {
+            "sha-256": "560e5d77e766f96023170f65287433c0b388b3eccec8c663bc6c0bd4e7530128"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/b_class.h"
+          },
+          "hashes": {
+            "sha-256": "b9c04b7fe23ef096028d9f9885e7fc137f9f65c4aab3777d74bda9d79bf01f40"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/c_class.h"
+          },
+          "hashes": {
+            "sha-256": "f9222653fabdb6baf65001c2085e206bd25a06ac5f395619181ca4af33441d9e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/ahieo/onedrive/робочий стіл/пк-51/пдс/лаб_5/source/lab_5_1_v6/d_class.h"
+          },
+          "hashes": {
+            "sha-256": "fff1c21b3a97fe206838e15dec77c2611ce25320099e8865f024bfc82055c087"
+          }
+        }
+      ]
+    }
+  ]
+}

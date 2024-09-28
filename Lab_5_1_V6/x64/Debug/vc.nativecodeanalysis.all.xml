@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\Lab_5_1_V6\</FILEPATH>
+      <FILENAME>D_class.h</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>0</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'D::R' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>D::{ctor}</FUNCTION>
+    <DECORATED>??0D@@QEAA@XZ</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>D::R</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
