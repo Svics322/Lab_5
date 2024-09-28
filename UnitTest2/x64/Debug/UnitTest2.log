@@ -1,0 +1,7 @@
+﻿  UnitTest2.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\Lab_5_2_V6\A_class.cpp(22,24): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\Lab_5_2_V6\B_class.cpp(22,24): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\Lab_5_2_V6\Calculus.h(23,2): warning C4091: 'static ': ignored on left of 'Calculus' when no variable is declared
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\UnitTest2\UnitTest2.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     Creating library C:\Users\ahieo\OneDrive\Робочий ст?л\ПК-51\ПДС\Лаб_5\Source\Lab_5_1_V6\x64\Debug\UnitTest2.lib and object C:\Users\ahieo\OneDrive\Робочий ст?л\ПК-51\ПДС\Лаб_5\Source\Lab_5_1_V6\x64\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_5\Source\Lab_5_1_V6\x64\Debug\UnitTest2.dll
